@@ -1,0 +1,15 @@
+.divider {
+   margin: 40px 24px 32px 24px;
+}
+.divider h2 {
+  color: rgb(180,180,180);
+  font-style: italic;
+   width: 100%;
+   text-align: center;
+   border-bottom: 1px solid rgb(180,180,180);
+   line-height: 0.1em;
+}
+.section {
+  background-color: rgb(245,245,245);
+  padding: 0 50px;
+}
